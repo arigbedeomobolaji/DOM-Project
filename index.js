@@ -126,7 +126,7 @@ function displayCartItems(product) {
 						)}</p>
 						<!-- Product quantity -->
 						<div class="d-flex flex-column flex-md-row justify-content-between align-items-lg-center align-items-start">
-						<div class="text-danger cursor-pointer" onclick=removeItem('${
+						<div class="text-danger cursor-pointer py-3" onclick=removeItem('${
 							product.productID
 						}')><i class="bi bi-trash3-fill"></i>Remove
 						</div>
