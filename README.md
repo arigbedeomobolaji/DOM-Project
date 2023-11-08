@@ -13,4 +13,7 @@ Furthermore, the shopping cart is designed with modern e-commerce best practices
 In summary, this responsive shopping cart project offers a seamless and visually appealing solution for online shoppers. With its intuitive design, real-time item count, and user-friendly features, it aims to make the shopping process efficient and enjoyable for users, ultimately improving the overall e-commerce experience."
 
 #  Tools Used
-Boostrap CSS and Bootsrap Icons are used for styling and adding Icons to the page
+# Boostrap CSS and Bootsrap Icons are used for styling and adding Icons to the page
+# Javascript 
+# CSS
+# HTML
