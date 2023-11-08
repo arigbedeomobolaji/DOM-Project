@@ -7,7 +7,7 @@ let cartItems = [
 		productID: "product-1",
 		productImage:
 			"https://ng.jumia.is/unsafe/fit-in/150x150/filters:fill(white)/product/50/397518/1.jpg?8885",
-		productTitle: "Oraimo 1000mah Power-BankOraimo 1000mah Power-Bank",
+		productTitle: "Oraimo 1000mah Power-Bank",
 		productPrice: 1000,
 		productQuantity: 1,
 		isLiked: false,
